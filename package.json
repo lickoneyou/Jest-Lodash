@@ -18,5 +18,8 @@
   "homepage": "https://github.com/lickoneyou/Jest-Lodash#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
